@@ -1,0 +1,11 @@
+{
+  "name": "training-progress",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nope"
+  },
+  "author": "Tyler Souza",
+  "license": "ISC"
+}
